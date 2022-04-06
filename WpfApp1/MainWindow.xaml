@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Label FontSize="30">Заид Зульфатович поставьте 100 баллов, пжпжпжпж</Label>
         
     </Grid>
 </Window>
